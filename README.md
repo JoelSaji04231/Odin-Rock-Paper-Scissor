@@ -1,0 +1,1 @@
+A project done using HTML, CSS, JavaScript under The Odin Project instructions, while focusing on JavaScript. The main objective is to determine whether the computer or the user wins, or if a tie occurs.
